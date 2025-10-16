@@ -10,6 +10,8 @@ This tool is for **educational purposes and authorized security testing only**. 
 ## 📥 Download
 Go to download the latest `wpdebugfinder.exe`
 Go Lang Must be installed 
+Yype this command  to make Go lang to EXE for windows 
+go build -o wpdebugfinder.exe wpdebugfinder.go
 
 ## 🛠 Features
 - Scan for exposed debug.log files
